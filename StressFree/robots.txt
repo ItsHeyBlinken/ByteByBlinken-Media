@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.stressfree-events.com/sitemap.xml
+
+# Disallow any temporary or development files
+Disallow: /temp/
+Disallow: /dev/
+Disallow: /Current Docs/Example.html
